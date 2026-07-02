@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile">
+  <a href="https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=profile">
     <img src="./assets/evolink-api-platform-banner.jpg" alt="EvoLink AI Model API Platform for Production" width="100%" />
   </a>
 </p>
