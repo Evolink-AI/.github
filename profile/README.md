@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=One+Key+for+120%2B+AI+Models;GPT%2C+Claude%2C+Gemini%2C+Seedance%2C+Kling+%26+More;Image%2C+Video%2C+Audio+%26+Text+APIs;Agent-Native+Workflows+for+Production" alt="EvoLink typing headline" />
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile">
+    <img src="./assets/evolink-api-platform-banner.jpg" alt="EvoLink AI Model API Platform for Production" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -12,17 +14,6 @@
 <p align="center">
   <strong>EvoLink is the model access layer for AI teams shipping production apps, agents, and creative workflows.</strong>
 </p>
-
-## Curated GitHub Entrypoints
-
-| Need | Start here |
-| :--- | :--- |
-| Blender to AI video workflows | [Awesome Blender Seedance Workflow Usecases](https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases) |
-| Audio generation use cases | [Awesome Seed Audio 1.0 Guide and Usecases](https://github.com/Evolink-AI/Awesome-Seed-Audio-1.0-Guide-and-Usecases) |
-| Seed Audio API and agent skill | [Seed Audio 1.0 Skill](https://github.com/Evolink-AI/seed-audio-1-0-skill) |
-| Image generation API and agent skill | [Nanobanana 2 Lite Image Generate API Skill](https://github.com/Evolink-AI/nanobanana-2-lite-image-generate-api-skill) |
-| Browse all models | [EvoLink Models](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=profile) |
-| API docs | [EvoLink Docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) |
 
 ## Unified API Ecosystem
 
