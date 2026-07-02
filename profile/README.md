@@ -8,7 +8,7 @@
   <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile"><img alt="Get Started" src="https://img.shields.io/badge/Get_Started-000000?style=for-the-badge&logo=rocket&logoColor=white"></a>
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile"><img alt="Docs" src="https://img.shields.io/badge/Docs-111827?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
   <a href="https://discord.gg/5mGHfA24kn"><img alt="Community" src="https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://x.com/routerapi"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/EvoLinkAi"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
   ·
   <a href="https://discord.gg/5mGHfA24kn">Discord</a>
   ·
-  <a href="https://x.com/routerapi">X</a>
+  <a href="https://x.com/EvoLinkAi">X</a>
 </p>
 
 <p align="center"><sub>Powered by EvoLink.</sub></p>
