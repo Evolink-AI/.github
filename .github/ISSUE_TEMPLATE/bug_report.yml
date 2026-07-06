@@ -1,0 +1,42 @@
+name: Bug report
+description: Report a reproducible issue in an EvoLink repository.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an issue. Do not include API keys, secrets, or private user data.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or package
+      description: Which repository, package, model, or example is affected?
+      placeholder: Evolink-AI/example-repo
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the issue and the expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest reproducible flow, command, or README section.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include runtime, OS, package version, model ID, and relevant non-secret configuration.
+    validations:
+      required: false
